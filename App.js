@@ -1,11 +1,15 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { Button, ButtonStyle } from '@mcl-boron-components/button'
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Tester for MCL</Text>
+      <Button displayText="Primary Button" onPress={() => {}} type={ButtonStyle.PRIMARY} /> 
+      <Button displayText="Secondary Button" onPress={() => {}} type={ButtonStyle.SECONDARY} /> 
+      <Button displayText="Tertiary Button" onPress={() => {}} type={ButtonStyle.TERTIARY} />
       <StatusBar style="auto" />
     </View>
   );

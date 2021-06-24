@@ -1708,6 +1708,9 @@
     "@babel/runtime" "^7.7.2"
     regenerator-runtime "^0.13.3"
 
+"@mcl-boron-components/button@file:../../mobile-component-library/packages/components/Button":
+  version "1.0.1-alpha.3"
+
 "@react-native-community/cli-debugger-ui@^4.13.1":
   version "4.13.1"
   resolved "https://nexus.securetempus.com/repository/npm/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-4.13.1.tgz#07de6d4dab80ec49231de1f1fbf658b4ad39b32c"
