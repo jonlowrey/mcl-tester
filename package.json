@@ -19,7 +19,8 @@
     "react-native-screens": "~3.0.0",
     "react-native-unimodules": "~0.13.3",
     "react-native-web": "~0.13.12",
-    "@mcl-boron-components/button": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Button/"
+    "@mcl-boron-components/button": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Button/",
+    "@mcl-boron-components/spinner": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Spinner/"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"

@@ -49,7 +49,26 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-  <key>UIStatusBarStyle</key>
-  <string>UIStatusBarStyleDefault</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Kastelov - Nolan Next Bold Italic.otf</string>
+		<string>Kastelov - Nolan Next Bold.otf</string>
+		<string>Kastelov - Nolan Next Italic.otf</string>
+		<string>Kastelov - NolanNext-Book.otf</string>
+		<string>Kastelov - NolanNext-BookItalic.otf</string>
+		<string>Kastelov - NolanNext-ExtraBold.otf</string>
+		<string>Kastelov - NolanNext-ExtraBoldItalic.otf</string>
+		<string>Kastelov - NolanNext-Heavy.otf</string>
+		<string>Kastelov - NolanNext-HeavyItalic.otf</string>
+		<string>Kastelov - NolanNext-Light.otf</string>
+		<string>Kastelov - NolanNext-LightItalic.otf</string>
+		<string>Kastelov - NolanNext-Medium.otf</string>
+		<string>Kastelov - NolanNext-MediumItalic.otf</string>
+		<string>Kastelov - NolanNext-Regular.otf</string>
+		<string>Kastelov - NolanNext-Thin.otf</string>
+		<string>Kastelov - NolanNext-ThinItalic.otf</string>
+	</array>
 </dict>
 </plist>

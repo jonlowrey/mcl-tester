@@ -14,6 +14,22 @@
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
 		96905EF65AED1B983A6B3ABC /* libPods-mcltester.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-mcltester.a */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
+		382145B4D539428AAC91018F /* Kastelov - Nolan Next Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A782DA6740864A81A99CA8F3 /* Kastelov - Nolan Next Bold Italic.otf */; };
+		98EDC651C14841F794417193 /* Kastelov - Nolan Next Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 445AE8426BD74E56840E4B38 /* Kastelov - Nolan Next Bold.otf */; };
+		E4C2B67905F1446F95CB7B26 /* Kastelov - Nolan Next Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DE8416C83B5B463EA33F6C47 /* Kastelov - Nolan Next Italic.otf */; };
+		E4ED481FE28F49B1BB56CEFC /* Kastelov - NolanNext-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = D5601868B19741A6A261E647 /* Kastelov - NolanNext-Book.otf */; };
+		3E72686F8BE04482A54CE7BC /* Kastelov - NolanNext-BookItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A1F1CF6BF46241229B8B8D7A /* Kastelov - NolanNext-BookItalic.otf */; };
+		1327813273D9427396127517 /* Kastelov - NolanNext-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0B732B96EC7A4F2491491DC9 /* Kastelov - NolanNext-ExtraBold.otf */; };
+		0C63B40C724841DB87301898 /* Kastelov - NolanNext-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EA30F4840BFD48F99B8BBD4C /* Kastelov - NolanNext-ExtraBoldItalic.otf */; };
+		7577E53C5711489BA8C786F6 /* Kastelov - NolanNext-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 10BC50AF386C4F16B22704E2 /* Kastelov - NolanNext-Heavy.otf */; };
+		7994F046B8C84822AE80B259 /* Kastelov - NolanNext-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 68FF629A5E914FADBCF152EC /* Kastelov - NolanNext-HeavyItalic.otf */; };
+		8066E066B2CC44A2A258BF62 /* Kastelov - NolanNext-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E1F4FB5223654289AB52861F /* Kastelov - NolanNext-Light.otf */; };
+		E7E9F05F4FA44D94A47B1D71 /* Kastelov - NolanNext-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 23C3EDF3D4964D72AB4C4E47 /* Kastelov - NolanNext-LightItalic.otf */; };
+		76B97DEAB41D4B7BAF7882C6 /* Kastelov - NolanNext-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CD7D91D06A8A43B68C16956D /* Kastelov - NolanNext-Medium.otf */; };
+		DD56C8CA53534D618F4C9265 /* Kastelov - NolanNext-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8BE8CD98413244E7BC10BAAD /* Kastelov - NolanNext-MediumItalic.otf */; };
+		2084FFC1553E42A188892CAC /* Kastelov - NolanNext-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = EC0969888D7D4711A68B8B4A /* Kastelov - NolanNext-Regular.otf */; };
+		DA40F1CE3CE74BFD9901476E /* Kastelov - NolanNext-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = EF6F6E57063C48E49FFAD953 /* Kastelov - NolanNext-Thin.otf */; };
+		82870429D974495D8245E13D /* Kastelov - NolanNext-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5D88391EFC004E31B5DEB85D /* Kastelov - NolanNext-ThinItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +48,22 @@
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		A782DA6740864A81A99CA8F3 /* Kastelov - Nolan Next Bold Italic.otf */ = {isa = PBXFileReference; name = "Kastelov - Nolan Next Bold Italic.otf"; path = "../assets/fonts/Kastelov - Nolan Next Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		445AE8426BD74E56840E4B38 /* Kastelov - Nolan Next Bold.otf */ = {isa = PBXFileReference; name = "Kastelov - Nolan Next Bold.otf"; path = "../assets/fonts/Kastelov - Nolan Next Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DE8416C83B5B463EA33F6C47 /* Kastelov - Nolan Next Italic.otf */ = {isa = PBXFileReference; name = "Kastelov - Nolan Next Italic.otf"; path = "../assets/fonts/Kastelov - Nolan Next Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D5601868B19741A6A261E647 /* Kastelov - NolanNext-Book.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Book.otf"; path = "../assets/fonts/Kastelov - NolanNext-Book.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A1F1CF6BF46241229B8B8D7A /* Kastelov - NolanNext-BookItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-BookItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-BookItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0B732B96EC7A4F2491491DC9 /* Kastelov - NolanNext-ExtraBold.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-ExtraBold.otf"; path = "../assets/fonts/Kastelov - NolanNext-ExtraBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA30F4840BFD48F99B8BBD4C /* Kastelov - NolanNext-ExtraBoldItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-ExtraBoldItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-ExtraBoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		10BC50AF386C4F16B22704E2 /* Kastelov - NolanNext-Heavy.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Heavy.otf"; path = "../assets/fonts/Kastelov - NolanNext-Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		68FF629A5E914FADBCF152EC /* Kastelov - NolanNext-HeavyItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-HeavyItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-HeavyItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1F4FB5223654289AB52861F /* Kastelov - NolanNext-Light.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Light.otf"; path = "../assets/fonts/Kastelov - NolanNext-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		23C3EDF3D4964D72AB4C4E47 /* Kastelov - NolanNext-LightItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-LightItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-LightItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CD7D91D06A8A43B68C16956D /* Kastelov - NolanNext-Medium.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Medium.otf"; path = "../assets/fonts/Kastelov - NolanNext-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8BE8CD98413244E7BC10BAAD /* Kastelov - NolanNext-MediumItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-MediumItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-MediumItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC0969888D7D4711A68B8B4A /* Kastelov - NolanNext-Regular.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Regular.otf"; path = "../assets/fonts/Kastelov - NolanNext-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF6F6E57063C48E49FFAD953 /* Kastelov - NolanNext-Thin.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-Thin.otf"; path = "../assets/fonts/Kastelov - NolanNext-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5D88391EFC004E31B5DEB85D /* Kastelov - NolanNext-ThinItalic.otf */ = {isa = PBXFileReference; name = "Kastelov - NolanNext-ThinItalic.otf"; path = "../assets/fonts/Kastelov - NolanNext-ThinItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +119,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D65327D7A22EEC0BE12398D9 /* Pods */,
+				1E952D6B41694B659185C5F2 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -118,6 +151,30 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		1E952D6B41694B659185C5F2 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				A782DA6740864A81A99CA8F3 /* Kastelov - Nolan Next Bold Italic.otf */,
+				445AE8426BD74E56840E4B38 /* Kastelov - Nolan Next Bold.otf */,
+				DE8416C83B5B463EA33F6C47 /* Kastelov - Nolan Next Italic.otf */,
+				D5601868B19741A6A261E647 /* Kastelov - NolanNext-Book.otf */,
+				A1F1CF6BF46241229B8B8D7A /* Kastelov - NolanNext-BookItalic.otf */,
+				0B732B96EC7A4F2491491DC9 /* Kastelov - NolanNext-ExtraBold.otf */,
+				EA30F4840BFD48F99B8BBD4C /* Kastelov - NolanNext-ExtraBoldItalic.otf */,
+				10BC50AF386C4F16B22704E2 /* Kastelov - NolanNext-Heavy.otf */,
+				68FF629A5E914FADBCF152EC /* Kastelov - NolanNext-HeavyItalic.otf */,
+				E1F4FB5223654289AB52861F /* Kastelov - NolanNext-Light.otf */,
+				23C3EDF3D4964D72AB4C4E47 /* Kastelov - NolanNext-LightItalic.otf */,
+				CD7D91D06A8A43B68C16956D /* Kastelov - NolanNext-Medium.otf */,
+				8BE8CD98413244E7BC10BAAD /* Kastelov - NolanNext-MediumItalic.otf */,
+				EC0969888D7D4711A68B8B4A /* Kastelov - NolanNext-Regular.otf */,
+				EF6F6E57063C48E49FFAD953 /* Kastelov - NolanNext-Thin.otf */,
+				5D88391EFC004E31B5DEB85D /* Kastelov - NolanNext-ThinItalic.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -183,6 +240,22 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
+				382145B4D539428AAC91018F /* Kastelov - Nolan Next Bold Italic.otf in Resources */,
+				98EDC651C14841F794417193 /* Kastelov - Nolan Next Bold.otf in Resources */,
+				E4C2B67905F1446F95CB7B26 /* Kastelov - Nolan Next Italic.otf in Resources */,
+				E4ED481FE28F49B1BB56CEFC /* Kastelov - NolanNext-Book.otf in Resources */,
+				3E72686F8BE04482A54CE7BC /* Kastelov - NolanNext-BookItalic.otf in Resources */,
+				1327813273D9427396127517 /* Kastelov - NolanNext-ExtraBold.otf in Resources */,
+				0C63B40C724841DB87301898 /* Kastelov - NolanNext-ExtraBoldItalic.otf in Resources */,
+				7577E53C5711489BA8C786F6 /* Kastelov - NolanNext-Heavy.otf in Resources */,
+				7994F046B8C84822AE80B259 /* Kastelov - NolanNext-HeavyItalic.otf in Resources */,
+				8066E066B2CC44A2A258BF62 /* Kastelov - NolanNext-Light.otf in Resources */,
+				E7E9F05F4FA44D94A47B1D71 /* Kastelov - NolanNext-LightItalic.otf in Resources */,
+				76B97DEAB41D4B7BAF7882C6 /* Kastelov - NolanNext-Medium.otf in Resources */,
+				DD56C8CA53534D618F4C9265 /* Kastelov - NolanNext-MediumItalic.otf in Resources */,
+				2084FFC1553E42A188892CAC /* Kastelov - NolanNext-Regular.otf in Resources */,
+				DA40F1CE3CE74BFD9901476E /* Kastelov - NolanNext-Thin.otf in Resources */,
+				82870429D974495D8245E13D /* Kastelov - NolanNext-ThinItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
