@@ -7,10 +7,14 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@mcl-boron-components/button": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Button/",
+    "@mcl-boron-components/spinner": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Spinner/",
     "expo": "~41.0.1",
     "expo-splash-screen": "~0.10.2",
     "expo-status-bar": "~1.0.4",
     "expo-updates": "~0.5.4",
+    "lottie-ios": "3.1.8",
+    "lottie-react-native": "^3.5.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
@@ -18,9 +22,7 @@
     "react-native-reanimated": "~2.1.0",
     "react-native-screens": "~3.0.0",
     "react-native-unimodules": "~0.13.3",
-    "react-native-web": "~0.13.12",
-    "@mcl-boron-components/button": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Button/",
-    "@mcl-boron-components/spinner": "file:/Users/jon.lowrey/projects/mobile-component-library/packages/components/Spinner/"
+    "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
